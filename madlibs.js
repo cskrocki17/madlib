@@ -8,7 +8,7 @@ var index = 0;
 
 //Initialize users
 alert("filler go away");
-alert("Enter after each word, end with shift 6");
+alert("Enter after each word, end with shift 6. When you see 'next position' type the position of the word you'd like to replace, start counting at 0.");
 
 //fill sentence
 populate(index,sentence,"word");
